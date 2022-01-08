@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package concatenacion;
+package concatenacion; //the name of package 
 
 
-public class Concatenacion {
+public class Concatenacion { //this clase is public
 
     
     
-    public static void main(String[] args) {
+    public static void main(String[] args) { //intro java
       
    String A;A="Juliana";
    String B;B="Castillo";
