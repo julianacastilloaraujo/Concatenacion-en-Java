@@ -4,12 +4,13 @@
  * and open the template in the editor.
  */
 package concatenacion; //the name of package 
-
+ 
+/**
+     * @autor: jlianacastillo
+     */   
 
 public class Concatenacion { //this clase is public
-
-    
-    
+ 
     public static void main(String[] args) { //intro java
       
    String A;A="Juliana";
